@@ -89,6 +89,11 @@ while True:
 <img width="1920" height="1080" alt="Screenshot 2026-05-14 233645" src="https://github.com/user-attachments/assets/180501fd-fbd1-46a1-b677-5ae436929110" />
 
 
+## CLIENT:
+
+<img width="1920" height="1080" alt="Screenshot 2026-05-14 233613" src="https://github.com/user-attachments/assets/352cc495-4609-4173-b90f-f5c1b7cdd930" />
+
+
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
 executed.
